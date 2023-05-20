@@ -1,2 +1,2 @@
 # text_to_speech
-Converting text to speech through gtts module.
+Convert text to speech through gtts module.
